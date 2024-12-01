@@ -222,7 +222,7 @@
 
 ;; data structures
 (command_list
-  (cmd_identifier) @append_space @prepend_spaced_softline
+  (_) @append_space @prepend_spaced_softline
 )
 
 (command
